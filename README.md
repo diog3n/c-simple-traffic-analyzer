@@ -18,5 +18,5 @@ cd c-simple-traffic-analyzer
 mkdir build && cd build
 cmake .. && cmake --build .
 ```
-After taking these steps, you should have an executable called traffan in the build folder.
+After taking these steps, you should have an executable called *traffan* in the build folder.
 Run it without command-line arguments to see help.
